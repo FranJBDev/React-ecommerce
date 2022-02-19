@@ -1,2 +1,3 @@
 # React-ecommerce
-Simple ecommerce web application with reactjs
+Simple ecommerce web application with reactjs.
+Basic cart management system
